@@ -1,0 +1,5 @@
+# Archivos derivados de los archivos de cabecera
+*.o
+
+# Compilación de la aplicacións
+App
